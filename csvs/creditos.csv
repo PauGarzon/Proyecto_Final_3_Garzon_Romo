@@ -1,0 +1,554 @@
+Identificacion,NumeroOperacion,TipoCredito,MontoAprobado,Tasa,Destino,FechaEmision,Estado,Oficina
+201387768,100054000,Microcredito,"$2,100.",22.0,Capital de trabajo,15/09/2023 0:00,VIGENTE,FICOA
+401828447,300158000,Microcredito,"$12,000.",20.0,Capital de trabajo,18/10/2023 0:00,VIGENTE,QUITO
+401920814,300194000,Microcredito,"$2,100.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUITO
+504028069,100097000,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,FICOA
+504470261,300241000,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+603235722,300107000,Microcredito,"$5,300.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,25/08/2023 0:00,VIGENTE,QUITO
+908507114,300061000,Microcredito,"$5,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,29/06/2023 0:00,VIGENTE,QUITO
+925087116,300225000,Microcredito,"$12,450.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1002958138,300249000,Microcredito,"$4,170.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1004036974,300208000,Microcredito,"$1,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,11/12/2023 0:00,VIGENTE,QUITO
+1104907207,100087000,Microcredito,"$1,800.",22.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,FICOA
+1207482793,100085000,Microcredito,"$3,500.",22.0,Otros. No productivas,23/11/2023 0:00,VIGENTE,FICOA
+1313699645,300162000,Microcredito,"$12,000.",20.0,Capital de trabajo,20/10/2023 0:00,VIGENTE,QUITO
+1315513596,300180000,Microcredito,"$14,200.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,08/11/2023 0:00,VIGENTE,QUITO
+1500657323,100098000,Microcredito,"$35,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,FICOA
+1706869433,300230000,Microcredito,"$40,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,VIGENTE,QUITO
+1707246201,300224000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1707518583,300188000,Microcredito,"$5,750.",20.0,Capital de trabajo,20/11/2023 0:00,VIGENTE,QUITO
+1708108368,300074000,Microcredito,"$5,000.",22.0,Capital de trabajo,13/07/2023 0:00,VIGENTE,QUITO
+1709237711,300270000,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,09/01/2024 0:00,VIGENTE,QUITO
+1709981839,300168000,Microcredito,"$6,050.",20.0,Otros. No productivas,27/10/2023 0:00,VIGENTE,QUITO
+1710630359,300146000,Microcredito,"$4,000.",20.0,Otros. No productivas,28/09/2023 0:00,VIGENTE,QUITO
+1711004471,300165000,Microcredito,"$15,000.",20.0,Capital de trabajo,26/10/2023 0:00,VIGENTE,QUITO
+1711469336,300271000,Microcredito,"$5,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,VIGENTE,QUITO
+1711609451,300192000,Microcredito,"$3,200.",20.0,Otros. No productivas,23/11/2023 0:00,VIGENTE,QUITO
+1712374378,300086000,Microcredito,"$15,000.",20.0,Capital de trabajo,28/07/2023 0:00,VIGENTE,QUITO
+1712825486,300101000,Microcredito,"$7,300.",20.0,Capital de trabajo,22/08/2023 0:00,VIGENTE,QUITO
+1713717054,300156000,Microcredito,"$5,200.",20.0,Capital de trabajo,13/10/2023 0:00,VIGENTE,QUITO
+1713936621,300159000,Microcredito,"$15,000.",20.0,Capital de trabajo,18/10/2023 0:00,VIGENTE,QUITO
+1714228531,300097000,Microcredito,"$40,000.",20.0,Capital de trabajo,18/08/2023 0:00,VIGENTE,QUITO
+1716261563,300215000,Microcredito,"$5,200.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,VIGENTE,QUITO
+1717355257,300236000,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1717978124,300091000,Microcredito,"$7,000.",22.0,Otros. No productivas,08/08/2023 0:00,VIGENTE,QUITO
+1718586033,300135000,Microcredito,"$5,200.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,22/09/2023 0:00,VIGENTE,QUITO
+1719997205,300067000,Microcredito,"$10,400.",20.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",06/07/2023 0:00,VIGENTE,QUITO
+1720487774,300150000,Microcredito,"$10,000.",20.0,Capital de trabajo,02/10/2023 0:00,VIGENTE,QUITO
+1721250759,300209000,Microcredito,"$7,600.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,13/12/2023 0:00,VIGENTE,QUITO
+1722516729,300179000,Microcredito,"$8,301.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,08/11/2023 0:00,VIGENTE,QUITO
+1722545868,300139000,Microcredito,"$12,000.",20.0,Otros. No productivas,26/09/2023 0:00,VIGENTE,QUITO
+1722730346,300163000,Microcredito,"$7,000.",20.0,Otros. No productivas,25/10/2023 0:00,VIGENTE,QUITO
+1722823166,300204000,Microcredito,"$15,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,30/11/2023 0:00,VIGENTE,QUITO
+1723089361,300129000,Microcredito,"$6,800.",22.0,Otros. No productivas,20/09/2023 0:00,VIGENTE,QUITO
+1723268528,300127000,Microcredito,"$1,000.",22.0,Otros. No productivas,20/09/2023 0:00,VIGENTE,QUITO
+1724965924,300199000,Microcredito,"$5,200.",20.0,Capital de trabajo,28/11/2023 0:00,VIGENTE,QUITO
+1725057291,300169000,Microcredito,"$13,700.",20.0,Capital de trabajo,27/10/2023 0:00,VIGENTE,QUITO
+1727866079,300105000,Microcredito,"$8,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,23/08/2023 0:00,VIGENTE,QUITO
+1728895143,100096000,Microcredito,"$16,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,26/12/2023 0:00,VIGENTE,FICOA
+1729187862,300134000,Microcredito,"$7,000.",20.0,Otros. No productivas,22/09/2023 0:00,VIGENTE,QUITO
+1750397844,300197000,Microcredito,"$5,000.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUITO
+1751635937,300207000,Microcredito,"$5,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,06/12/2023 0:00,VIGENTE,QUITO
+1755714365,300269000,Microcredito,"$14,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,08/01/2024 0:00,VIGENTE,QUITO
+1755749742,300195000,Microcredito,"$6,250.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUITO
+1758182933,300191000,Microcredito,"$7,000.",22.0,Otros. No productivas,22/11/2023 0:00,VIGENTE,QUITO
+1802038453,100100000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,FICOA
+1802061992,300044000,Microcredito,"$5,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,02/06/2023 0:00,VIGENTE,QUITO
+1802114221,100065000,Microcredito,"$3,000.",20.0,Capital de trabajo,06/10/2023 0:00,VIGENTE,FICOA
+1802380087,100088000,Microcredito,"$3,000.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,FICOA
+1802380897,100052000,Microcredito,"$32,600.",20.0,Capital de trabajo,07/09/2023 0:00,VIGENTE,FICOA
+1802455970,100084000,Microcredito,"$6,200.",20.0,Otros. No productivas,23/11/2023 0:00,VIGENTE,FICOA
+1802494011,100067000,Microcredito,"$3,000.",20.0,Capital de trabajo,10/10/2023 0:00,VIGENTE,FICOA
+1802502029,100064000,Microcredito,"$1,000.",20.0,Capital de trabajo,05/10/2023 0:00,VIGENTE,FICOA
+1802706745,300037000,Microcredito,"$10,000.",20.0,Otros. No productivas,22/05/2023 0:00,VIGENTE,QUITO
+1803191038,100072000,Microcredito,$650.,22.0,Capital de trabajo,19/10/2023 0:00,VIGENTE,FICOA
+1803250883,300013000,Microcredito,"$20,000.",20.0,Otros. No productivas,20/03/2023 0:00,VIGENTE,QUITO
+1803431129,100063000,Microcredito,"$3,000.",22.0,Capital de trabajo,04/10/2023 0:00,VIGENTE,FICOA
+1803964319,100089000,Microcredito,"$15,000.",20.0,Otros. No productivas,28/11/2023 0:00,VIGENTE,FICOA
+1804053575,100051000,Microcredito,"$1,000.",20.0,Capital de trabajo,05/09/2023 0:00,VIGENTE,FICOA
+1804090775,100081000,Microcredito,"$3,000.",20.0,Otros. No productivas,20/11/2023 0:00,VIGENTE,FICOA
+1804294286,100102000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,08/01/2024 0:00,VIGENTE,FICOA
+1804419271,100047000,Microcredito,"$7,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,25/08/2023 0:00,VIGENTE,FICOA
+1804492609,100046000,Microcredito,"$1,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,25/08/2023 0:00,VIGENTE,FICOA
+1804629820,100068000,Microcredito,"$2,100.",20.0,Capital de trabajo,12/10/2023 0:00,VIGENTE,FICOA
+1804981874,100057000,Microcredito,"$3,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,26/09/2023 0:00,VIGENTE,FICOA
+1805078076,200038000,Microcredito,"$5,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,15/12/2023 0:00,VIGENTE,QUISAPINCHA
+1805096326,100093000,Microcredito,"$3,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,12/12/2023 0:00,VIGENTE,FICOA
+1805379060,100055000,Microcredito,"$7,000.",20.0,Otros. No productivas,19/09/2023 0:00,VIGENTE,FICOA
+1805474374,100058000,Microcredito,"$10,000.",20.0,Capital de trabajo,27/09/2023 0:00,VIGENTE,FICOA
+1805484282,100059000,Microcredito,"$3,000.",20.0,Otros. No productivas,28/09/2023 0:00,VIGENTE,FICOA
+1850987528,100076000,Microcredito,"$7,000.",20.0,Otros. No productivas,09/11/2023 0:00,VIGENTE,FICOA
+1851066272,200035000,Microcredito,"$5,000.",22.0,Otros. No productivas,01/12/2023 0:00,VIGENTE,QUISAPINCHA
+202329991,100094000,Consumo,"$2,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,VIGENTE,FICOA
+202549945,100069000,Consumo,"$1,000.",15.6,Otros. No productivas,18/10/2023 0:00,VIGENTE,FICOA
+952840957,100086000,Consumo,"$2,300.",15.6,Otros. No productivas,24/11/2023 0:00,VIGENTE,FICOA
+1001470143,300170000,Consumo,"$15,000.",15.6,Otros. No productivas,27/10/2023 0:00,VIGENTE,QUITO
+1311706681,300220000,Consumo,"$14,400.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,19/12/2023 0:00,VIGENTE,QUITO
+1316388287,300261000,Consumo,"$8,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1707364327,300137000,Consumo,"$3,700.",14.0,Reestructuración de Pasivos y Pago de Obligaciones,25/09/2023 0:00,VIGENTE,QUITO
+1710221381,300212000,Consumo,"$3,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,15/12/2023 0:00,VIGENTE,QUITO
+1719035485,300144000,Consumo,"$15,000.",15.6,Capital de trabajo,27/09/2023 0:00,VIGENTE,QUITO
+1723428965,300265000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1723797765,300147000,Consumo,"$6,500.",15.6,Capital de trabajo,27/09/2023 0:00,VIGENTE,QUITO
+1724233752,300124000,Consumo,"$6,750.",15.6,Capital de trabajo,15/09/2023 0:00,VIGENTE,QUITO
+1724536816,300210000,Consumo,"$2,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,13/12/2023 0:00,VIGENTE,QUITO
+1726607169,300077000,Consumo,"$13,137.",15.6,Otros. No productivas,19/07/2023 0:00,VIGENTE,QUITO
+1802266435,100049000,Consumo,"$7,000.",15.6,Capital de trabajo,30/08/2023 0:00,VIGENTE,FICOA
+1802589018,100022000,Consumo,"$26,000.",15.6,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",10/07/2023 0:00,VIGENTE,FICOA
+1802912517,100095000,Consumo,$500.,15.6,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,VIGENTE,FICOA
+1804033429,100056000,Consumo,"$3,200.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,25/09/2023 0:00,VIGENTE,FICOA
+1804638383,100053000,Consumo,"$6,000.",15.6,Capital de trabajo,12/09/2023 0:00,VIGENTE,FICOA
+1804730693,100073000,Consumo,"$3,000.",15.6,Otros. No productivas,20/10/2023 0:00,VIGENTE,FICOA
+1805394796,100070000,Consumo,$770.,15.6,Reestructuración de Pasivos y Pago de Obligaciones,18/10/2023 0:00,VIGENTE,FICOA
+1760293827,300196000,Microcredito,"$6,000.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUITO
+1761407871,300142000,Consumo,"$1,500.",15.6,Otros. No productivas,26/09/2023 0:00,VIGENTE,QUITO
+1761651122,300214000,Microcredito,"$3,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,VIGENTE,QUITO
+202571691,2632,Microcredito,"$4,000.",22.0,Otros. No productivas,18/08/2023 0:00,ELIMINADO,QUITO
+202571691,2633,Microcredito,"$4,000.",22.0,Capital de trabajo,18/08/2023 0:00,ELIMINADO,QUITO
+202571691,2634,Microcredito,"$4,000.",22.0,Capital de trabajo,25/08/2023 0:00,ELIMINADO,QUITO
+908507114,2522,Microcredito,"$5,500.",20.0,Otros. No productivas,28/06/2023 0:00,ELIMINADO,QUITO
+1708108368,2556,Microcredito,"$5,000.",22.0,"Activos Fijos Tangibles: Terrenos, edificios y construcción de infraestructura para fines productivos y comerciales",12/07/2023 0:00,ELIMINADO,QUITO
+1713717054,2749,Microcredito,"$5,200.",20.0,Capital de trabajo,12/10/2023 0:00,ELIMINADO,QUITO
+1715919666,300059000,Microcredito,"$5,000.",22.0,Activos Fijos Tangibles: Vehículos pesados para fines productivos y comerciales,27/06/2023 0:00,RESOLUCION,QUITO
+1716061971,300078000,Microcredito,"$15,000.",20.0,Capital de trabajo,19/07/2023 0:00,CANCELADA,QUITO
+1718554809,300058000,Microcredito,"$9,550.",20.0,Capital de trabajo,23/06/2023 0:00,RESOLUCION,QUITO
+1723278808,300054000,Microcredito,"$14,000.",20.0,Otros. No productivas,20/06/2023 0:00,CANCELADA,QUITO
+1723897839,300049000,Consumo,"$10,000.",15.6,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",09/06/2023 0:00,RESOLUCION,QUITO
+1725143406,300080000,Microcredito,"$8,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,21/07/2023 0:00,RESOLUCION,QUITO
+1757325772,2509,Microcredito,"$13,000.",20.0,Capital de trabajo,23/06/2023 0:00,ELIMINADO,QUITO
+1801575034,2273-5525,Microcredito,"$1,200.",24.54,Capital de trabajo,02/08/2021 0:00,CANCELADA,QUISAPINCHA
+1802299048,300027000,Microcredito,"$10,000.",20.0,Capital de trabajo,24/04/2023 0:00,CANCELADA,QUITO
+1802455970,2817,Microcredito,"$5,000.",20.0,Otros. No productivas,23/11/2023 0:00,ELIMINADO,FICOA
+1802455970,2822,Microcredito,"$6,200.",20.0,Otros. No productivas,23/11/2023 0:00,ELIMINADO,FICOA
+1803431129,2735,Microcredito,"$3,000.",22.0,Capital de trabajo,04/10/2023 0:00,ELIMINADO,FICOA
+1804090775,200027000,Microcredito,$730.,20.0,Otros. No productivas,06/11/2023 0:00,CANCELADA,QUISAPINCHA
+1804128765,2293-5499,Microcredito,$960.,26.9,Capital de trabajo,21/12/2021 0:00,CANCELADA,QUISAPINCHA
+1804421178,2900,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,27/12/2023 0:00,ELIMINADO,FICOA
+1805096326,2857,Microcredito,"$3,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,12/12/2023 0:00,ELIMINADO,FICOA
+2300419310,300046000,Microcredito,"$20,000.",20.0,Capital de trabajo,06/06/2023 0:00,CANCELADA,QUITO
+501750160,300057000,Microcredito,"$40,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,23/06/2023 0:00,VIGENTE,QUITO
+605000447,300048000,Microcredito,"$13,000.",20.0,Otros. No productivas,09/06/2023 0:00,VIGENTE,QUITO
+1004275010,300043000,Consumo,"$3,400.",15.6,Otros. No productivas,02/06/2023 0:00,VIGENTE,QUITO
+1004275010,2469,Consumo,"$3,400.",15.6,Capital de trabajo,02/06/2023 0:00,ELIMINADO,QUITO
+1311751265,300244000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1707623268,2307-6242,Consumo,"$20,000.",15.5,Capital de trabajo,13/07/2022 0:00,VIGENTE,QUISAPINCHA
+1710458884,300227000,Microcredito,"$40,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1711265791,300064000,Microcredito,"$5,250.",22.0,Otros. No productivas,30/06/2023 0:00,VIGENTE,QUITO
+1714002761,300132000,Microcredito,"$3,000.",20.0,Otros. No productivas,22/09/2023 0:00,VIGENTE,QUITO
+1716392491,2306-6243,Consumo,"$20,000.",15.5,Capital de trabajo,13/07/2022 0:00,VIGENTE,QUISAPINCHA
+1717647620,300256000,Consumo,"$30,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1718942343,300036000,Consumo,"$10,363.45",15.6,Otros. No productivas,19/05/2023 0:00,VIGENTE,QUITO
+1718942343,2432,Consumo,"$10,363.45",15.6,Capital de trabajo,17/05/2023 0:00,ELIMINADO,QUITO
+1721709721,300051000,Microcredito,"$7,350.",22.0,Otros. No productivas,14/06/2023 0:00,VIGENTE,QUITO
+1722541370,300023000,Consumo,"$10,000.",15.0,Capital de trabajo,13/04/2023 0:00,VIGENTE,QUITO
+1725329690,300047000,Consumo,"$7,300.",15.6,Capital de trabajo,07/06/2023 0:00,VIGENTE,QUITO
+1752629087,300042000,Microcredito,"$11,000.",20.0,Otros. No productivas,02/06/2023 0:00,RESOLUCION,QUITO
+1754128864,300211000,Microcredito,"$5,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,15/12/2023 0:00,VIGENTE,QUITO
+1756883169,300066000,Microcredito,"$3,000.",22.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",30/06/2023 0:00,VIGENTE,QUITO
+1801603372,1369-501,Microcredito,"$3,660.",22.0,Capital de trabajo,27/09/2022 0:00,CANCELADA,FICOA
+1801999333,2301-5809,Microcredito,"$1,500.",22.0,Capital de trabajo,05/05/2022 0:00,CANCELADA,QUISAPINCHA
+1802142016,1362-616,Microcredito,"$2,500.",24.54,Capital de trabajo,30/12/2021 0:00,VIGENTE,FICOA
+1803171956,1333-168,Microcredito,"$2,600.",24.54,Capital de trabajo,05/06/2019 0:00,CASTIGADA,FICOA
+1803336484,1364-18,Microcredito,$300.,25.0,Capital de trabajo,24/05/2022 0:00,CANCELADA,FICOA
+1803362639,2277-5543,Microcredito,"$1,570.",24.54,Capital de trabajo,31/08/2021 0:00,RESOLUCION,QUISAPINCHA
+1803458379,1361-805,Microcredito,"$6,500.",24.54,Capital de trabajo,14/12/2021 0:00,CANCELADA,FICOA
+1803963378,2278-5482,Microcredito,"$4,000.",24.54,Capital de trabajo,03/09/2021 0:00,RESOLUCION,QUISAPINCHA
+1804146270,1365-23,Microcredito,"$1,000.",25.0,Capital de trabajo,11/07/2022 0:00,VENCIDA,FICOA
+1804149076,2292-5205,Microcredito,"$1,800.",24.54,Capital de trabajo,20/12/2021 0:00,VENCIDA,QUISAPINCHA
+1804237178,2309-5825,Microcredito,$500.,25.0,Capital de trabajo,02/08/2022 0:00,CANCELADA,QUISAPINCHA
+1804609079,2304-5986,Microcredito,"$1,000.",25.0,Capital de trabajo,30/05/2022 0:00,VENCIDA,QUISAPINCHA
+1804714978,2310-5940,Microcredito,"$2,000.",22.0,Capital de trabajo,15/08/2022 0:00,VIGENTE,QUISAPINCHA
+1804881249,2262-5604,Microcredito,"$1,840.",24.54,Capital de trabajo,11/02/2021 0:00,CANCELADA,QUISAPINCHA
+1804959862,2286-6027,Microcredito,"$1,500.",24.54,Capital de trabajo,11/11/2021 0:00,CANCELADA,QUISAPINCHA
+1805023577,1366-935,Consumo,"$10,000.",16.0,Capital de trabajo,02/08/2022 0:00,VIGENTE,FICOA
+1805151485,2300-6237,Consumo,"$5,000.",15.5,Capital de trabajo,03/05/2022 0:00,VIGENTE,QUISAPINCHA
+1850302777,2251-6145,Microcredito,"$3,000.",24.54,Capital de trabajo,08/10/2020 0:00,CANCELADA,QUISAPINCHA
+104393319,300060000,Microcredito,"$15,000.",20.0,Capital de trabajo,28/06/2023 0:00,VIGENTE,QUITO
+104393319,2514,Microcredito,"$15,000.",20.0,Otros. No productivas,27/06/2023 0:00,ELIMINADO,QUITO
+1003948427,2772,Consumo,"$8,000.",15.6,Otros. No productivas,26/10/2023 0:00,ELIMINADO,QUITO
+1003948427,2773,Consumo,"$2,000.",15.6,Otros. No productivas,26/10/2023 0:00,ELIMINADO,QUITO
+1312168329,300041000,Consumo,"$7,300.",15.6,Otros. No productivas,31/05/2023 0:00,VIGENTE,QUITO
+1600692253,300109000,Microcredito,"$25,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/08/2023 0:00,VIGENTE,QUITO
+1704720695,300186000,Microcredito,"$3,600.",20.0,Otros. No productivas,16/11/2023 0:00,VIGENTE,QUITO
+1706661970,300177000,Microcredito,"$7,000.",20.0,Otros. No productivas,08/11/2023 0:00,VIGENTE,QUITO
+1707201487,300153000,Consumo,"$20,900.",15.6,Capital de trabajo,10/10/2023 0:00,VIGENTE,QUITO
+1709580540,300255000,Consumo,"$40,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1710638196,2940,Microcredito,"$27,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,11/01/2024 0:00,POR VENCER,QUITO
+1711462406,300161000,Microcredito,"$47,900.",20.0,Capital de trabajo,19/10/2023 0:00,VIGENTE,QUITO
+1711838100,300029000,Consumo,"$3,119.18",15.0,Capital de trabajo,27/04/2023 0:00,CANCELADA,QUITO
+1711838100,300174000,Microcredito,"$10,600.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,31/10/2023 0:00,VIGENTE,QUITO
+1712458221,300198000,Microcredito,"$10,000.",20.0,Capital de trabajo,24/11/2023 0:00,VIGENTE,QUITO
+1712514809,300143000,Consumo,"$5,000.",13.6,Otros. No productivas,27/09/2023 0:00,VIGENTE,QUITO
+1712514809,1357-921,Microcredito,"$5,000.",24.54,Capital de trabajo,26/10/2021 0:00,CANCELADA,FICOA
+1712514809,2715,Consumo,"$5,000.",15.6,Otros. No productivas,27/09/2023 0:00,ELIMINADO,QUITO
+1712626454,300250000,Microcredito,"$25,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1712693991,300221000,Microcredito,"$3,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1713425559,300183000,Microcredito,"$4,000.",20.0,Otros. No productivas,14/11/2023 0:00,VIGENTE,QUITO
+1714041207,300266000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1715038202,300229000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,VIGENTE,QUITO
+1716801525,300252000,Consumo,"$40,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1718025420,300120000,Microcredito,"$40,000.",20.0,Otros. No productivas,08/09/2023 0:00,VIGENTE,QUITO
+1718523440,300251000,Consumo,"$12,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1718981002,300110000,Consumo,"$6,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/08/2023 0:00,VIGENTE,QUITO
+1719024059,300190000,Microcredito,"$6,600.",20.0,Otros. No productivas,22/11/2023 0:00,VIGENTE,QUITO
+1719122846,300237000,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1720229879,300122000,Consumo,"$15,000.",15.6,Capital de trabajo,11/09/2023 0:00,VIGENTE,QUITO
+1720557345,300133000,Microcredito,"$14,000.",20.0,Otros. No productivas,22/09/2023 0:00,VIGENTE,QUITO
+1721030011,300171000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,27/10/2023 0:00,VIGENTE,QUITO
+1721860060,2942,Consumo,"$9,545.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,11/01/2024 0:00,POR VENCER,QUITO
+1722163423,300253000,Consumo,"$10,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1722212626,300275000,Consumo,"$14,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,VIGENTE,QUITO
+1722631676,300240000,Consumo,"$8,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1722643978,2733,Consumo,"$4,600.",15.6,Capital de trabajo,02/10/2023 0:00,ELIMINADO,QUITO
+1723710594,300228000,Consumo,"$14,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1723874960,300160000,Microcredito,"$3,700.",20.0,Capital de trabajo,19/10/2023 0:00,VIGENTE,QUITO
+1723952766,300268000,Consumo,"$10,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1724236011,300028000,Microcredito,"$10,373.06",20.0,Capital de trabajo,27/04/2023 0:00,RESOLUCION,QUITO
+1724549819,300222000,Microcredito,"$8,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1725610990,300113000,Microcredito,"$4,200.",20.0,Otros. No productivas,29/08/2023 0:00,VIGENTE,QUITO
+1725697526,300068000,Microcredito,"$10,600.",20.0,Otros. No productivas,07/07/2023 0:00,RESOLUCION,QUITO
+1725993511,300087000,Microcredito,"$13,200.",22.0,Capital de trabajo,31/07/2023 0:00,VIGENTE,QUITO
+1726872649,300248000,Consumo,"$4,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1727326553,300184000,Microcredito,"$10,400.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,15/11/2023 0:00,VIGENTE,QUITO
+1750115931,300178000,Microcredito,"$6,000.",22.0,Capital de trabajo,08/11/2023 0:00,VIGENTE,QUITO
+1756677124,300206000,Consumo,"$10,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,30/11/2023 0:00,VIGENTE,QUITO
+1758676827,300193000,Microcredito,"$2,000.",20.0,Otros. No productivas,23/11/2023 0:00,VIGENTE,QUITO
+1759665084,300203000,Microcredito,"$4,160.",20.0,Otros. No productivas,30/11/2023 0:00,VIGENTE,QUITO
+1802716389,100075000,Microcredito,"$25,000.",20.0,Capital de trabajo,25/10/2023 0:00,VIGENTE,FICOA
+1803337847,100082000,Microcredito,"$25,000.",20.0,Otros. No productivas,21/11/2023 0:00,VIGENTE,FICOA
+1803542289,100091000,Microcredito,"$27,500.",20.0,Otros. No productivas,30/11/2023 0:00,VIGENTE,FICOA
+1804021960,100092000,Microcredito,"$3,000.",22.0,Otros. No productivas,30/11/2023 0:00,CANCELADA,FICOA
+1804182796,300025000,Microcredito,"$10,000.",20.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",19/04/2023 0:00,VIGENTE,QUITO
+1804406716,100101000,Consumo,"$2,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,03/01/2024 0:00,VIGENTE,FICOA
+1804408787,200036000,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,08/12/2023 0:00,VIGENTE,QUISAPINCHA
+1805064480,2291-6231,Microcredito,"$2,000.",24.54,Capital de trabajo,06/12/2021 0:00,CANCELADA,QUISAPINCHA
+1850431246,300024000,Microcredito,"$5,000.",20.0,Capital de trabajo,13/04/2023 0:00,VIGENTE,QUITO
+2100270863,300065000,Consumo,"$7,300.",15.6,Capital de trabajo,30/06/2023 0:00,VIGENTE,QUITO
+2200075725,300090000,Microcredito,"$8,300.",22.0,Capital de trabajo,03/08/2023 0:00,VIGENTE,QUITO
+1500999758,100028000,Consumo,"$1,600.",15.6,Otros. No productivas,21/07/2023 0:00,VIGENTE,FICOA
+1801815695,2576,Consumo,"$6,000.",15.6,Capital de trabajo,24/07/2023 0:00,ELIMINADO,FICOA
+1801998277,100026000,Consumo,"$13,000.",15.6,Capital de trabajo,19/07/2023 0:00,VIGENTE,FICOA
+1801998277,2562,Consumo,"$13,000.",15.6,Otros. No productivas,17/07/2023 0:00,ELIMINADO,FICOA
+1802591824,100039000,Microcredito,"$10,000.",20.0,Otros. No productivas,10/08/2023 0:00,VIGENTE,FICOA
+1802846996,100079000,Microcredito,"$10,350.",20.0,Otros. No productivas,17/11/2023 0:00,VIGENTE,FICOA
+1803158284,2516,Microcredito,"$40,000.",20.0,Capital de trabajo,27/06/2023 0:00,ELIMINADO,FICOA
+1803969011,100077000,Consumo,"$9,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,14/11/2023 0:00,VIGENTE,FICOA
+1804346680,100034000,Consumo,"$18,000.",15.6,Capital de trabajo,28/07/2023 0:00,VIGENTE,FICOA
+1804346680,2578,Consumo,"$18,000.",15.6,Otros. No productivas,24/07/2023 0:00,ELIMINADO,FICOA
+1804346680,2579,Consumo,"$18,000.",15.6,Otros. No productivas,24/07/2023 0:00,ELIMINADO,FICOA
+1804346680,2591,Consumo,"$18,000.",15.6,Capital de trabajo,27/07/2023 0:00,ELIMINADO,FICOA
+1804627774,300017000,Microcredito,"$2,000.",22.0,Microcrédito otorgado para consumo de micro empresarios,23/03/2023 0:00,CANCELADA,QUITO
+1804627774,2391,Microcredito,"$2,000.",22.0,Otros. No productivas,22/03/2023 0:00,ELIMINADO,QUITO
+1850605633,1367-938,Microcredito,"$3,000.",22.0,Capital de trabajo,23/08/2022 0:00,VIGENTE,FICOA
+1850715416,100025000,Microcredito,"$1,100.",20.0,Otros. No productivas,18/07/2023 0:00,VIGENTE,FICOA
+401176920,300022000,Consumo,"$10,000.",15.0,Otros. No productivas,13/04/2023 0:00,VIGENTE,QUITO
+502538788,300026000,Microcredito,"$12,000.",20.0,Otros. No productivas,21/04/2023 0:00,RESOLUCION,QUITO
+601904626,300052000,Consumo,"$15,000.",15.6,Capital de trabajo,15/06/2023 0:00,CANCELADA,QUITO
+801602749,300185000,Microcredito,"$26,000.",20.0,Capital de trabajo,16/11/2023 0:00,VIGENTE,QUITO
+801975822,300200000,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,29/11/2023 0:00,VIGENTE,QUITO
+915606644,300072000,Microcredito,"$40,000.",20.0,Capital de trabajo,12/07/2023 0:00,VIGENTE,QUITO
+920000098,300045000,Microcredito,"$5,000.",22.0,Otros. No productivas,02/06/2023 0:00,VIGENTE,QUITO
+1500438997,300098000,Microcredito,"$25,000.",20.0,Capital de trabajo,21/08/2023 0:00,VIGENTE,QUITO
+1500782253,300121000,Microcredito,"$5,500.",20.0,Otros. No productivas,11/09/2023 0:00,VIGENTE,QUITO
+1702998236,300141000,Microcredito,"$42,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,26/09/2023 0:00,VIGENTE,QUITO
+1704807377,300187000,Microcredito,"$3,120.",20.0,Capital de trabajo,17/11/2023 0:00,VIGENTE,QUITO
+1705356259,300152000,Microcredito,"$6,500.",20.0,Capital de trabajo,02/10/2023 0:00,VIGENTE,QUITO
+1705762175,300079000,Microcredito,"$20,000.",20.0,Otros. No productivas,20/07/2023 0:00,VIGENTE,QUITO
+1706608047,300233000,Microcredito,"$25,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,26/12/2023 0:00,VIGENTE,QUITO
+1706608047,2891,Microcredito,"$25,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,26/12/2023 0:00,ELIMINADO,QUITO
+1706608047,2892,Microcredito,"$25,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,26/12/2023 0:00,ELIMINADO,QUITO
+1706780317,300223000,Consumo,"$10,500.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1706780317,300258000,Consumo,"$20,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1706818844,300154000,Microcredito,"$7,350.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,10/10/2023 0:00,VIGENTE,QUITO
+1707600183,300167000,Microcredito,"$47,900.",20.0,Otros. No productivas,27/10/2023 0:00,VIGENTE,QUITO
+1709928582,300032000,Consumo,"$40,000.",15.6,Otros. No productivas,04/05/2023 0:00,VIGENTE,QUITO
+1710246867,300126000,Consumo,"$15,000.",15.6,Capital de trabajo,19/09/2023 0:00,VIGENTE,QUITO
+1710820430,300106000,Microcredito,"$12,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,25/08/2023 0:00,VIGENTE,QUITO
+1710928571,300055000,Microcredito,"$21,000.",20.0,Otros. No productivas,20/06/2023 0:00,VIGENTE,QUITO
+1711177038,300094000,Microcredito,"$15,000.",20.0,Capital de trabajo,15/08/2023 0:00,VIGENTE,QUITO
+1711177038,2616,Microcredito,"$15,000.",20.0,Otros. No productivas,10/08/2023 0:00,ELIMINADO,QUITO
+1711392074,300103000,Consumo,"$40,000.",15.6,Otros. No productivas,23/08/2023 0:00,VIGENTE,QUITO
+1711471696,300062000,Microcredito,"$5,000.",22.0,Capital de trabajo,30/06/2023 0:00,VIGENTE,QUITO
+1712351194,300092000,Microcredito,"$40,000.",20.0,Capital de trabajo,09/08/2023 0:00,VIGENTE,QUITO
+1713341343,300075000,Consumo,"$6,000.",15.6,Otros. No productivas,19/07/2023 0:00,VIGENTE,QUITO
+1713646410,300104000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,23/08/2023 0:00,VIGENTE,QUITO
+1713735692,300226000,Microcredito,"$40,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,21/12/2023 0:00,VIGENTE,QUITO
+1713948154,300216000,Microcredito,"$10,500.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,VIGENTE,QUITO
+1714434733,300136000,Microcredito,"$7,300.",20.0,Capital de trabajo,22/09/2023 0:00,VIGENTE,QUITO
+1714742606,300166000,Consumo,"$15,600.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,26/10/2023 0:00,VIGENTE,QUITO
+1715590095,300189000,Microcredito,"$10,000.",20.0,Otros. No productivas,22/11/2023 0:00,VIGENTE,QUITO
+1716290174,300242000,Microcredito,"$40,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1716427594,300176000,Consumo,"$1,200.",14.0,"Activos Fijos Tangibles: Terrenos, edificios y construcción de infraestructura para fines productivos y comerciales",06/11/2023 0:00,VIGENTE,QUITO
+1716427594,2786,Consumo,"$1,200.",14.0,Adquisición de servicios,06/11/2023 0:00,ELIMINADO,QUITO
+1716427594,2787,Consumo,"$1,200.",14.0,Otros. No productivas,06/11/2023 0:00,ELIMINADO,QUITO
+1716427594,2788,Consumo,"$1,200.",14.0,Activos Fijos Tangibles: Otros activos fijos tangibles que no constituyen bienes de capital para fines productivos y comerciales,06/11/2023 0:00,ELIMINADO,QUITO
+1716971930,300164000,Microcredito,"$3,500.",20.0,Capital de trabajo,25/10/2023 0:00,VIGENTE,QUITO
+1717186975,300273000,Consumo,"$7,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,POR VENCER,QUITO
+1717300592,300217000,Microcredito,"$17,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,VIGENTE,QUITO
+1717521916,300145000,Microcredito,"$15,000.",20.0,Microcrédito otorgado para consumo de micro empresarios,27/09/2023 0:00,VIGENTE,QUITO
+1717927485,300213000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,VIGENTE,QUITO
+1718285164,300093000,Microcredito,"$11,000.",20.0,Otros. No productivas,14/08/2023 0:00,VIGENTE,QUITO
+1719035519,300149000,Microcredito,"$29,100.",20.0,Capital de trabajo,29/09/2023 0:00,VIGENTE,QUITO
+1719943332,300038000,Microcredito,"$35,460.",20.0,Capital de trabajo,24/05/2023 0:00,VIGENTE,QUITO
+1720351269,300131000,Microcredito,"$15,000.",20.0,Capital de trabajo,21/09/2023 0:00,VIGENTE,QUITO
+1720351269,2689,Microcredito,"$15,000.",20.0,Capital de trabajo,12/09/2023 0:00,ELIMINADO,QUITO
+1720351269,2691,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,12/09/2023 0:00,ELIMINADO,QUITO
+1720351269,2692,Microcredito,"$15,000.",20.0,Capital de trabajo,13/09/2023 0:00,ELIMINADO,QUITO
+1722227004,300205000,Consumo,"$6,000.",15.6,Otros. No productivas,30/11/2023 0:00,VIGENTE,QUITO
+1722228143,300125000,Microcredito,"$3,500.",20.0,Otros. No productivas,19/09/2023 0:00,VIGENTE,QUITO
+1722386941,300243000,Consumo,"$5,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1722666540,300071000,Microcredito,"$5,200.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,11/07/2023 0:00,VIGENTE,QUITO
+1723287122,300264000,Consumo,"$10,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1723622096,300234000,Consumo,"$7,300.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,27/12/2023 0:00,VIGENTE,QUITO
+1723687362,300073000,Consumo,"$5,000.",15.6,Capital de trabajo,13/07/2023 0:00,CANCELADA,QUITO
+1724137656,300202000,Microcredito,"$30,000.",20.0,Capital de trabajo,30/11/2023 0:00,VIGENTE,QUITO
+1725414906,300102000,Microcredito,"$10,000.",20.0,Capital de trabajo,22/08/2023 0:00,VIGENTE,QUITO
+1725442220,300053000,Consumo,"$3,130.",15.6,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",16/06/2023 0:00,VIGENTE,QUITO
+1725653636,300123000,Consumo,"$4,000.",15.6,Otros. No productivas,13/09/2023 0:00,VIGENTE,QUITO
+1726191487,300081000,Consumo,"$1,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,21/07/2023 0:00,VIGENTE,QUITO
+1726389909,300267000,Consumo,"$12,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1726678640,300119000,Microcredito,"$15,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,06/09/2023 0:00,VIGENTE,QUITO
+1727022095,300175000,Microcredito,"$4,400.",22.0,Otros. No productivas,01/11/2023 0:00,VIGENTE,QUITO
+1750117325,300173000,Microcredito,"$15,000.",20.0,Otros. No productivas,31/10/2023 0:00,VIGENTE,QUITO
+1751566793,300039000,Consumo,"$13,000.",15.6,Capital de trabajo,25/05/2023 0:00,VIGENTE,QUITO
+1751566793,2414,Consumo,"$13,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,08/05/2023 0:00,ELIMINADO,QUITO
+1751566793,2428,Consumo,"$13,000.",15.6,Otros. No productivas,16/05/2023 0:00,ELIMINADO,QUITO
+1754522678,300235000,Microcredito,"$4,170.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,27/12/2023 0:00,VIGENTE,QUITO
+1756015689,300128000,Microcredito,"$5,500.",20.0,Otros. No productivas,20/09/2023 0:00,VIGENTE,QUITO
+1757190721,300182000,Consumo,"$1,575.",15.6,Otros. No productivas,14/11/2023 0:00,VIGENTE,QUITO
+1801767219,300151000,Microcredito,"$40,000.",20.0,Capital de trabajo,29/09/2023 0:00,RESOLUCION,QUITO
+1802213924,300201000,Microcredito,"$47,000.",22.0,Capital de trabajo,30/11/2023 0:00,VIGENTE,QUITO
+202144184,300115000,Microcredito,"$4,150.",22.0,Otros. No productivas,31/08/2023 0:00,VIGENTE,QUITO
+501776652,300076000,Consumo,"$7,000.",15.6,"Activos Fijos Tangibles: Terrenos, edificios y construcción de infraestructura para fines productivos y comerciales",19/07/2023 0:00,VIGENTE,QUITO
+801286014,300012000,Consumo,"$2,000.",14.0,Capital de trabajo,10/03/2023 0:00,CANCELADA,QUITO
+801286014,300019000,Consumo,"$4,000.",14.0,Otros. No productivas,28/03/2023 0:00,CANCELADA,QUITO
+801286014,300108000,Consumo,$879.3,9.0,Reestructuración de Pasivos y Pago de Obligaciones,28/08/2023 0:00,CANCELADA,QUITO
+925208480,300009000,Consumo,"$5,000.",15.0,Otros. No productivas,09/03/2023 0:00,VIGENTE,QUITO
+1002453437,300031000,Consumo,"$5,000.",15.6,Capital de trabajo,03/05/2023 0:00,CANCELADA,QUITO
+1002453437,2410,Consumo,"$5,000.",16.14,Otros. No productivas,03/05/2023 0:00,ELIMINADO,QUITO
+1316446663,300276000,Consumo,"$8,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,VIGENTE,QUITO
+1600813081,100006000,Consumo,"$3,100.",15.0,Capital de trabajo,12/04/2023 0:00,VIGENTE,FICOA
+1600813081,2399,Consumo,"$3,000.",15.0,Capital de trabajo,10/04/2023 0:00,ELIMINADO,FICOA
+1708326051,300172000,Consumo,$260.,14.0,Otros. No productivas,30/10/2023 0:00,CANCELADA,QUITO
+1708631013,300082000,Microcredito,"$6,220.",20.0,Capital de trabajo,24/07/2023 0:00,VIGENTE,QUITO
+1709245722,300007000,Consumo,"$40,000.",15.0,Otros. No productivas,28/02/2023 0:00,CANCELADA,QUITO
+1714209044,300040000,Consumo,"$10,600.",15.6,Capital de trabajo,29/05/2023 0:00,VIGENTE,QUITO
+1714209044,2460,Consumo,"$10,600.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,25/05/2023 0:00,ELIMINADO,QUITO
+1716961766,300089000,Microcredito,"$10,000.",22.0,Capital de trabajo,01/08/2023 0:00,VIGENTE,QUITO
+1717317349,300006000,Consumo,"$40,000.",15.0,Otros. No productivas,27/02/2023 0:00,CANCELADA,QUITO
+1717317349,300245000,Consumo,"$50,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1717317349,2347,Consumo,"$15,000.",15.0,Capital de trabajo,24/02/2023 0:00,ELIMINADO,QUITO
+1717530545,300015000,Consumo,"$31,088.08",15.0,Otros. No productivas,22/03/2023 0:00,VIGENTE,QUITO
+1717530545,2381,Consumo,"$20,000.",15.0,Otros. No productivas,14/03/2023 0:00,ELIMINADO,QUITO
+1717530545,2385,Consumo,"$31,088.08",15.0,Otros. No productivas,17/03/2023 0:00,ELIMINADO,QUITO
+1717991457,300033000,Consumo,"$10,362.69",15.0,Otros. No productivas,10/05/2023 0:00,VIGENTE,QUITO
+1718654823,300257000,Consumo,"$35,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1719524181,300111000,Microcredito,"$8,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,29/08/2023 0:00,VIGENTE,QUITO
+1721677845,300100000,Microcredito,"$15,000.",20.0,Otros. No productivas,21/08/2023 0:00,VIGENTE,QUITO
+1725337933,300114000,Consumo,"$3,700.",15.6,Capital de trabajo,31/08/2023 0:00,VIGENTE,QUITO
+1725729477,300219000,Consumo,"$3,650.",15.0,Reestructuración de Pasivos y Pago de Obligaciones,19/12/2023 0:00,VIGENTE,QUITO
+1725729477,2868,Consumo,"$3,650.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,18/12/2023 0:00,ELIMINADO,QUITO
+1725729477,2870,Consumo,"$3,650.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,19/12/2023 0:00,ELIMINADO,QUITO
+1760501385,300069000,Consumo,"$2,500.",15.6,Capital de trabajo,10/07/2023 0:00,RESOLUCION,QUITO
+1800808188,100014000,Microcredito,"$2,000.",22.0,Otros. No productivas,02/06/2023 0:00,VIGENTE,FICOA
+1802007581,100005000,Microcredito,"$1,000.",20.0,Capital de trabajo,02/03/2023 0:00,VIGENTE,FICOA
+1802007581,2353,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,FICOA
+1802007581,2354,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,FICOA
+1802007581,2355,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,FICOA
+1802007581,2356,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,FICOA
+1802007581,2357,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,QUISAPINCHA
+1802007581,2358,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,QUISAPINCHA
+1802007581,2360,Microcredito,"$1,000.",20.0,Otros. No productivas,28/02/2023 0:00,ELIMINADO,QUISAPINCHA
+1802383644,100016000,Microcredito,"$5,000.",20.0,Otros. No productivas,12/06/2023 0:00,VIGENTE,FICOA
+1803833621,200039000,Consumo,"$1,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,VIGENTE,QUISAPINCHA
+1804473260,100027000,Microcredito,"$2,963.",20.0,Otros. No productivas,20/07/2023 0:00,VIGENTE,FICOA
+1804473260,200010000,Microcredito,"$3,000.",20.0,Capital de trabajo,04/07/2023 0:00,VIGENTE,QUISAPINCHA
+1850390350,100037000,Microcredito,"$6,000.",20.0,Capital de trabajo,31/07/2023 0:00,VIGENTE,FICOA
+501320550,100012000,Consumo,"$3,000.",15.6,Capital de trabajo,24/05/2023 0:00,VIGENTE,FICOA
+601972987,100003000,Consumo,"$8,000.",15.0,Otros. No productivas,30/12/2022 0:00,CANCELADA,FICOA
+601972987,300148000,Consumo,"$8,310.",13.6,Capital de trabajo,28/09/2023 0:00,VIGENTE,QUITO
+601972987,1356-927,Microcredito,"$15,000.",22.9,Capital de trabajo,26/10/2021 0:00,CANCELADA,FICOA
+1707160550,300005000,Consumo,"$40,000.",15.0,Otros. No productivas,27/02/2023 0:00,CANCELADA,QUITO
+1707160550,300262000,Consumo,"$50,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1707160550,2348,Consumo,"$20,000.",15.0,Capital de trabajo,24/02/2023 0:00,ELIMINADO,QUITO
+1708211527,300002000,Consumo,"$20,000.",15.0,Otros. No productivas,30/12/2022 0:00,CANCELADA,QUITO
+1708211527,300263000,Consumo,"$50,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1717530131,300238000,Consumo,"$35,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1720444817,300239000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1720522588,300034000,Consumo,"$1,600.",15.6,Otros. No productivas,10/05/2023 0:00,VIGENTE,QUITO
+1722384144,300254000,Consumo,"$20,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1722448345,300016000,Consumo,"$31,088.08",15.0,Otros. No productivas,22/03/2023 0:00,VIGENTE,QUITO
+1722448345,2386,Consumo,"$31,088.08",15.0,Capital de trabajo,17/03/2023 0:00,ELIMINADO,QUITO
+1725423782,300030000,Consumo,"$15,544.04",15.6,Capital de trabajo,28/04/2023 0:00,VIGENTE,QUITO
+1726180381,300259000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1759463498,300118000,Microcredito,"$4,000.",20.0,Otros. No productivas,06/09/2023 0:00,VIGENTE,QUITO
+1801841444,100015000,Microcredito,"$3,000.",22.0,Otros. No productivas,07/06/2023 0:00,VIGENTE,FICOA
+1802926160,100017000,Consumo,"$2,000.",15.6,Otros. No productivas,14/06/2023 0:00,CANCELADA,FICOA
+1803538857,100074000,Consumo,"$3,600.",16.0,Otros. No productivas,24/10/2023 0:00,VIGENTE,FICOA
+103836482,100038000,Consumo,"$50,000.",15.6,Capital de trabajo,03/08/2023 0:00,VIGENTE,FICOA
+103836482,2607,Consumo,"$50,000.",15.6,Otros. No productivas,02/08/2023 0:00,ELIMINADO,FICOA
+103879300,300070000,Consumo,"$5,000.",15.6,Otros. No productivas,11/07/2023 0:00,VIGENTE,QUITO
+103889515,2669,Consumo,"$7,000.",15.6,Capital de trabajo,01/09/2023 0:00,ELIMINADO,FICOA
+502901416,300157000,Consumo,"$9,000.",15.6,Capital de trabajo,13/10/2023 0:00,VIGENTE,QUITO
+504050907,300014000,Consumo,"$1,800.",15.0,Microcrédito otorgado para consumo de micro empresarios,22/03/2023 0:00,VIGENTE,QUITO
+604955617,300096000,Microcredito,"$11,000.",20.0,Capital de trabajo,18/08/2023 0:00,VIGENTE,QUITO
+604955617,2627,Microcredito,"$11,000.",25.0,Otros. No productivas,18/08/2023 0:00,ELIMINADO,QUITO
+908829377,300011000,Consumo,"$5,000.",14.0,Capital de trabajo,10/03/2023 0:00,CANCELADA,QUITO
+908829377,400001000,Consumo,"$5,000.",14.0,Capital de trabajo,09/02/2023 0:00,CANCELADA,GUAYAQUIL
+908829377,2376,Consumo,"$5,000.",14.0,Capital de trabajo,10/03/2023 0:00,ELIMINADO,QUITO
+917442600,100040000,Consumo,"$2,000.",15.6,Capital de trabajo,17/08/2023 0:00,VIGENTE,FICOA
+1401348204,100044000,Consumo,"$3,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,23/08/2023 0:00,VIGENTE,FICOA
+1600640666,100066000,Consumo,"$3,150.",15.6,Otros. No productivas,10/10/2023 0:00,VIGENTE,FICOA
+1600640666,2744,Consumo,"$3,150.",15.6,Otros. No productivas,10/10/2023 0:00,ELIMINADO,FICOA
+1600640666,2745,Consumo,"$3,150.",15.6,Capital de trabajo,10/10/2023 0:00,ELIMINADO,FICOA
+1600719700,100048000,Consumo,"$3,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/08/2023 0:00,VIGENTE,FICOA
+1701562108,100004000,Consumo,"$16,000.",15.0,Capital de trabajo,30/12/2022 0:00,VIGENTE,FICOA
+1701562108,1359-922,Microcredito,"$8,000.",24.54,Capital de trabajo,02/12/2021 0:00,CANCELADA,FICOA
+1701562108,2319,Consumo,"$16,000.",15.0,Capital de trabajo,30/12/2022 0:00,ELIMINADO,FICOA
+1701562108,2321,Consumo,"$16,000.",15.0,Otros. No productivas,30/12/2022 0:00,ELIMINADO,FICOA
+1701562108,2322,Consumo,"$16,000.",15.0,Otros. No productivas,30/12/2022 0:00,ELIMINADO,FICOA
+1701562108,2323,Consumo,"$16,000.",15.0,Otros. No productivas,30/12/2022 0:00,ELIMINADO,FICOA
+1701562108,2324,Consumo,"$16,000.",15.0,Otros. No productivas,30/12/2022 0:00,ELIMINADO,FICOA
+1701562108,2331,Consumo,"$16,000.",15.0,Capital de trabajo,30/12/2022 0:00,ELIMINADO,FICOA
+1706956644,300035000,Consumo,"$1,200.",15.6,Capital de trabajo,10/05/2023 0:00,CANCELADA,QUITO
+1706956644,300050000,Consumo,$900.,15.6,Capital de trabajo,13/06/2023 0:00,CANCELADA,QUITO
+1709445678,300274000,Consumo,"$3,120.",15.0,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,VIGENTE,QUITO
+1709445678,2941,Consumo,"$3,120.",15.0,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,ELIMINADO,QUITO
+1710560168,300001000,Consumo,"$1,000.",17.0,Capital de trabajo,17/11/2022 0:00,CANCELADA,QUITO
+1710560168,300020000,Consumo,"$1,000.",15.0,Otros. No productivas,04/04/2023 0:00,CANCELADA,QUITO
+1710560168,300112000,Consumo,"$1,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/08/2023 0:00,CANCELADA,QUITO
+1710560168,300117000,Consumo,"$1,000.",15.6,Capital de trabajo,05/09/2023 0:00,CANCELADA,QUITO
+1711806511,1358-920,Microcredito,"$5,000.",24.54,Capital de trabajo,26/10/2021 0:00,CANCELADA,FICOA
+1711867141,300138000,Consumo,"$2,000.",15.6,Capital de trabajo,25/09/2023 0:00,VIGENTE,QUITO
+1711867141,300155000,Consumo,"$6,300.",15.6,Otros. No productivas,11/10/2023 0:00,VIGENTE,QUITO
+1711867141,300181000,Consumo,$500.,15.6,Otros. No productivas,09/11/2023 0:00,VIGENTE,QUITO
+1711958627,300021000,Consumo,"$6,217.62",15.0,Otros. No productivas,05/04/2023 0:00,VIGENTE,QUITO
+1715904635,300231000,Microcredito,"$2,100.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,VIGENTE,QUITO
+1715904635,2887,Microcredito,"$2,100.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,22/12/2023 0:00,ELIMINADO,QUITO
+1716759798,1360-906,Microcredito,"$7,000.",24.54,Capital de trabajo,02/12/2021 0:00,CANCELADA,FICOA
+1716842727,300003000,Consumo,"$5,000.",15.0,Otros. No productivas,30/12/2022 0:00,VIGENTE,QUITO
+1717163768,100001000,Microcredito,"$5,000.",20.0,Capital de trabajo,21/10/2022 0:00,CANCELADA,FICOA
+1717163768,2313,Microcredito,"$5,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,20/10/2022 0:00,ELIMINADO,FICOA
+1717913568,300018000,Consumo,"$6,000.",15.0,Microcrédito otorgado para consumo de micro empresarios,23/03/2023 0:00,VIGENTE,QUITO
+1717913568,300260000,Consumo,"$35,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1717913568,2390,Consumo,"$6,000.",15.0,Otros. No productivas,21/03/2023 0:00,ELIMINADO,QUITO
+1720724283,300130000,Microcredito,"$4,000.",20.0,Otros. No productivas,21/09/2023 0:00,VIGENTE,QUITO
+1722127394,300008000,Consumo,"$15,000.",15.0,Otros. No productivas,08/03/2023 0:00,VIGENTE,QUITO
+1722127394,2372,Consumo,"$15,544.04",15.0,Otros. No productivas,07/03/2023 0:00,ELIMINADO,QUITO
+1722738190,300004000,Consumo,"$40,000.",15.0,Capital de trabajo,27/02/2023 0:00,CANCELADA,QUITO
+1722738190,300246000,Consumo,"$50,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,28/12/2023 0:00,VIGENTE,QUITO
+1722738190,2339,Consumo,"$20,000.",15.0,Otros. No productivas,24/02/2023 0:00,ELIMINADO,QUITO
+1723845069,300247000,Consumo,"$40,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,29/12/2023 0:00,VIGENTE,QUITO
+1725086282,300116000,Microcredito,"$15,000.",20.0,Capital de trabajo,31/08/2023 0:00,VIGENTE,QUITO
+1800033126,100019000,Consumo,"$2,000.",15.6,Otros. No productivas,16/06/2023 0:00,CANCELADA,FICOA
+1800033126,100031000,Consumo,"$5,400.",15.6,Otros. No productivas,25/07/2023 0:00,VIGENTE,FICOA
+1800033126,2502,Consumo,"$2,000.",15.6,Otros. No productivas,16/06/2023 0:00,ELIMINADO,FICOA
+1800033126,2583,Consumo,"$5,400.",15.6,Otros. No productivas,25/07/2023 0:00,ELIMINADO,FICOA
+1802289734,100024000,Microcredito,"$10,350.",22.0,Capital de trabajo,10/07/2023 0:00,RESOLUCION,FICOA
+1802510840,100045000,Microcredito,"$15,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,25/08/2023 0:00,VIGENTE,FICOA
+1802629293,100042000,Consumo,"$2,150.",15.6,Capital de trabajo,17/08/2023 0:00,VIGENTE,FICOA
+1802691707,100036000,Microcredito,"$20,000.",20.0,Otros. No productivas,28/07/2023 0:00,VIGENTE,FICOA
+1802990240,100035000,Microcredito,"$20,000.",20.0,Capital de trabajo,31/07/2023 0:00,VIGENTE,FICOA
+1803094208,100010000,Microcredito,"$10,000.",20.0,Otros. No productivas,22/05/2023 0:00,VIGENTE,FICOA
+1803094208,1353-140,Microcredito,"$11,000.",22.9,Capital de trabajo,27/09/2021 0:00,CANCELADA,FICOA
+1803094208,2429,Microcredito,"$10,000.",20.0,Capital de trabajo,17/05/2023 0:00,ELIMINADO,FICOA
+1803094208,2430,Microcredito,"$10,000.",20.0,Capital de trabajo,17/05/2023 0:00,ELIMINADO,FICOA
+1803094208,2433,Microcredito,"$10,000.",20.0,Otros. No productivas,18/05/2023 0:00,ELIMINADO,FICOA
+1803094208,2435,Microcredito,"$10,000.",20.0,Otros. No productivas,18/05/2023 0:00,ELIMINADO,FICOA
+1803094208,2438,Microcredito,"$10,000.",20.0,Otros. No productivas,18/05/2023 0:00,ELIMINADO,FICOA
+1803094208,2441,Microcredito,"$10,000.",20.0,Otros. No productivas,18/05/2023 0:00,ELIMINADO,FICOA
+1803116746,200007000,Microcredito,"$3,000.",20.0,Capital de trabajo,30/06/2023 0:00,VIGENTE,QUISAPINCHA
+1803540499,100029000,Consumo,"$6,000.",15.6,Capital de trabajo,24/07/2023 0:00,VIGENTE,FICOA
+1803595394,100071000,Microcredito,"$6,500.",20.0,Otros. No productivas,18/10/2023 0:00,VIGENTE,FICOA
+1803664273,100033000,Consumo,"$20,000.",15.6,Capital de trabajo,27/07/2023 0:00,VIGENTE,FICOA
+1803664273,2581,Consumo,"$20,000.",15.6,"Activos Fijos Tangibles: Terrenos, edificios y construcción de infraestructura para fines productivos y comerciales",24/07/2023 0:00,ELIMINADO,FICOA
+1803916517,100041000,Microcredito,"$15,000.",20.0,Capital de trabajo,17/08/2023 0:00,VIGENTE,FICOA
+1803940533,100032000,Microcredito,"$15,000.",20.0,Capital de trabajo,26/07/2023 0:00,VIGENTE,FICOA
+1803994621,2312-6248,Microcredito,"$1,000.",25.0,Capital de trabajo,24/08/2022 0:00,CANCELADA,QUISAPINCHA
+1804490470,100023000,Microcredito,"$10,350.",25.0,Reestructuración de Pasivos y Pago de Obligaciones,10/07/2023 0:00,CANCELADA,FICOA
+1804559647,100013000,Consumo,"$5,000.",15.6,Capital de trabajo,31/05/2023 0:00,VIGENTE,FICOA
+1804785127,2305-6240,Microcredito,"$10,000.",22.0,Capital de trabajo,13/06/2022 0:00,CANCELADA,QUISAPINCHA
+1805221270,2302-6234,Consumo,"$5,000.",15.5,Capital de trabajo,05/05/2022 0:00,CANCELADA,QUISAPINCHA
+1850414606,200009000,Consumo,"$2,000.",15.6,Otros. No productivas,04/07/2023 0:00,VIGENTE,QUISAPINCHA
+1850414606,2530,Consumo,"$2,000.",15.6,Capital de trabajo,30/06/2023 0:00,ELIMINADO,FICOA
+1850414606,2536,Consumo,"$2,000.",15.6,Capital de trabajo,30/06/2023 0:00,ELIMINADO,FICOA
+1900329226,300095000,Consumo,"$7,000.",15.6,Capital de trabajo,17/08/2023 0:00,VIGENTE,QUITO
+201422664,200005000,Consumo,"$10,000.",15.6,Otros. No productivas,19/06/2023 0:00,RESOLUCION,QUISAPINCHA
+750147696,100021000,Microcredito,"$12,000.",20.0,Otros. No productivas,29/06/2023 0:00,VIGENTE,FICOA
+750147696,2512,Microcredito,"$12,000.",20.0,Capital de trabajo,28/06/2023 0:00,ELIMINADO,FICOA
+750147696,2520,Microcredito,"$12,000.",20.0,Vivienda para micro empresarios,28/06/2023 0:00,ELIMINADO,FICOA
+750147696,2537,Consumo,"$2,000.",15.6,Otros. No productivas,30/06/2023 0:00,ELIMINADO,FICOA
+1204262024,200017000,Microcredito,"$3,000.",20.0,Capital de trabajo,15/08/2023 0:00,VIGENTE,QUISAPINCHA
+1250889084,200030000,Consumo,"$1,000.",15.6,Otros. No productivas,22/11/2023 0:00,VIGENTE,QUISAPINCHA
+1600934010,200019000,Consumo,"$1,060.",15.6,Otros. No productivas,06/09/2023 0:00,VIGENTE,QUISAPINCHA
+1711691392,300084000,Consumo,"$40,000.",15.6,Otros. No productivas,27/07/2023 0:00,VIGENTE,QUITO
+1712206398,300063000,Microcredito,"$25,000.",20.0,Capital de trabajo,30/06/2023 0:00,VIGENTE,QUITO
+1712206398,2298-6230,Consumo,"$15,000.",15.5,Capital de trabajo,11/04/2022 0:00,CANCELADA,QUISAPINCHA
+1713266268,300085000,Microcredito,"$3,000.",22.0,Capital de trabajo,27/07/2023 0:00,VIGENTE,QUITO
+1722196142,300083000,Microcredito,"$3,450.",22.0,Capital de trabajo,27/07/2023 0:00,VIGENTE,QUITO
+1726955022,300088000,Microcredito,"$15,000.",20.0,Capital de trabajo,31/07/2023 0:00,VIGENTE,QUITO
+1801974815,2299-5501,Microcredito,"$1,000.",25.0,Capital de trabajo,19/04/2022 0:00,CANCELADA,QUISAPINCHA
+1802435121,200018000,Consumo,"$1,060.",15.6,Otros. No productivas,18/08/2023 0:00,VIGENTE,QUISAPINCHA
+1802625275,200012000,Microcredito,"$2,000.",20.0,Capital de trabajo,06/07/2023 0:00,VIGENTE,QUISAPINCHA
+1802783918,200026000,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,27/10/2023 0:00,VIGENTE,QUISAPINCHA
+1802857076,200025000,Microcredito,"$10,000.",22.0,Capital de trabajo,27/10/2023 0:00,VIGENTE,QUISAPINCHA
+1802857076,2769,Microcredito,"$10,000.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,25/10/2023 0:00,ELIMINADO,QUISAPINCHA
+1802943496,200008000,Microcredito,"$4,500.",20.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",04/07/2023 0:00,VIGENTE,QUISAPINCHA
+1803356490,100008000,Consumo,"$15,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,16/05/2023 0:00,VIGENTE,FICOA
+1803481272,2303-5627,Microcredito,"$1,000.",25.0,Capital de trabajo,23/05/2022 0:00,CANCELADA,QUISAPINCHA
+1803623220,200023000,Microcredito,"$10,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,10/10/2023 0:00,VIGENTE,QUISAPINCHA
+1803634037,2334,Microcredito,"$5,175.",20.0,Capital de trabajo,17/02/2023 0:00,ELIMINADO,QUITO
+1803634037,2335,Microcredito,"$5,181.35",20.0,Otros. No productivas,17/02/2023 0:00,ELIMINADO,QUITO
+1803634037,2336,Microcredito,"$5,175.",20.0,Otros. No productivas,22/02/2023 0:00,ELIMINADO,FICOA
+1803634037,2337,Microcredito,"$5,175.",20.0,Otros. No productivas,22/02/2023 0:00,ELIMINADO,FICOA
+1803657301,200014000,Microcredito,"$5,000.",22.0,Capital de trabajo,04/08/2023 0:00,VIGENTE,QUISAPINCHA
+1803657301,2294-5007,Microcredito,"$3,500.",22.0,Capital de trabajo,14/02/2022 0:00,CANCELADA,QUISAPINCHA
+1803889391,200034000,Microcredito,"$2,000.",22.0,Otros. No productivas,30/11/2023 0:00,VIGENTE,QUISAPINCHA
+1803902087,1363-213,Microcredito,"$1,500.",22.0,Capital de trabajo,21/02/2022 0:00,CANCELADA,FICOA
+1803966876,1368-89,Microcredito,"$15,000.",20.0,Capital de trabajo,05/09/2022 0:00,CANCELADA,FICOA
+1804047650,2296-6121,Microcredito,"$1,300.",22.0,Capital de trabajo,07/03/2022 0:00,CANCELADA,QUISAPINCHA
+1804131306,100009000,Microcredito,"$3,000.",22.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",16/05/2023 0:00,CANCELADA,FICOA
+1804131306,2426,Microcredito,"$3,000.",22.0,Capital de trabajo,16/05/2023 0:00,ELIMINADO,FICOA
+1804144408,200013000,Consumo,"$20,000.",15.6,Otros. No productivas,26/07/2023 0:00,VIGENTE,QUISAPINCHA
+1804144408,2550,Consumo,"$20,000.",15.6,Otros. No productivas,07/07/2023 0:00,ELIMINADO,QUISAPINCHA
+1804225884,200024000,Microcredito,"$8,000.",20.0,Capital de trabajo,27/10/2023 0:00,VIGENTE,QUISAPINCHA
+1804230926,200015000,Microcredito,"$1,500.",22.0,Otros. No productivas,04/08/2023 0:00,VIGENTE,QUISAPINCHA
+1804238077,200011000,Microcredito,"$2,000.",20.0,Capital de trabajo,05/07/2023 0:00,VIGENTE,QUISAPINCHA
+1804391785,2638,Microcredito,"$10,000.",20.0,Otros. No productivas,21/08/2023 0:00,ELIMINADO,QUITO
+1804433389,100002000,Microcredito,"$2,000.",22.0,Capital de trabajo,14/12/2022 0:00,CANCELADA,FICOA
+1804433389,100043000,Microcredito,"$3,000.",20.0,Capital de trabajo,22/08/2023 0:00,VIGENTE,FICOA
+1804433389,2282-5413,Microcredito,"$3,500.",24.54,Capital de trabajo,27/09/2021 0:00,CANCELADA,QUISAPINCHA
+1804433389,2316,Microcredito,"$2,000.",22.0,Otros. No productivas,08/12/2022 0:00,ELIMINADO,FICOA
+1804433389,2317,Microcredito,"$2,000.",22.0,Capital de trabajo,13/12/2022 0:00,ELIMINADO,FICOA
+1804450086,200022000,Consumo,$530.,15.6,Capital de trabajo,03/10/2023 0:00,VIGENTE,QUISAPINCHA
+1804568788,2949,Microcredito,"$1,050.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,12/01/2024 0:00,EN TRAMITE,QUISAPINCHA
+1804574158,200004000,Consumo,"$10,000.",15.6,Otros. No productivas,16/06/2023 0:00,VIGENTE,QUISAPINCHA
+1804575577,200031000,Microcredito,"$2,100.",20.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUISAPINCHA
+1804581237,100011000,Consumo,"$1,500.",15.6,Capital de trabajo,23/05/2023 0:00,VIGENTE,FICOA
+1804615316,100007000,Consumo,"$1,000.",15.0,Capital de trabajo,09/05/2023 0:00,CANCELADA,FICOA
+1804615316,100080000,Consumo,$500.,15.6,Otros. No productivas,17/11/2023 0:00,VIGENTE,FICOA
+1804615316,2416,Consumo,"$1,000.",15.6,Otros. No productivas,08/05/2023 0:00,ELIMINADO,FICOA
+1804615316,2417,Consumo,"$1,000.",15.6,Otros. No productivas,08/05/2023 0:00,ELIMINADO,FICOA
+1804615316,2418,Consumo,"$1,000.",15.6,Otros. No productivas,08/05/2023 0:00,ELIMINADO,FICOA
+1804615316,2419,Consumo,"$1,000.",15.6,Otros. No productivas,08/05/2023 0:00,ELIMINADO,FICOA
+1804615316,2420,Consumo,"$1,000.",15.6,Otros. No productivas,08/05/2023 0:00,ELIMINADO,FICOA
+1804615316,2421,Consumo,"$1,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,08/05/2023 0:00,ELIMINADO,FICOA
+1804620183,100099000,Consumo,"$6,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,02/01/2024 0:00,VIGENTE,FICOA
+1804722807,200001000,Microcredito,"$2,000.",22.0,Otros. No productivas,04/05/2023 0:00,CANCELADA,QUISAPINCHA
+1804722807,200033000,Microcredito,"$3,000.",22.0,Otros. No productivas,30/11/2023 0:00,VIGENTE,QUISAPINCHA
+1804774147,200021000,Microcredito,"$1,200.",20.0,Otros. No productivas,14/09/2023 0:00,VIGENTE,QUISAPINCHA
+1804813788,200016000,Microcredito,"$3,000.",20.0,Otros. No productivas,04/08/2023 0:00,VIGENTE,QUISAPINCHA
+1804830154,200032000,Microcredito,"$12,000.",22.0,Otros. No productivas,24/11/2023 0:00,VIGENTE,QUISAPINCHA
+1804830154,2311-5707,Microcredito,"$1,000.",25.0,Capital de trabajo,17/08/2022 0:00,CANCELADA,QUISAPINCHA
+1804830154,2829,Microcredito,"$12,000.",22.0,Otros. No productivas,24/11/2023 0:00,ELIMINADO,QUISAPINCHA
+1804859484,200002000,Microcredito,"$1,000.",25.0,"Activos Fijos Tangibles: Equipos, maquinaria y otros bienes de capital a excepción de vehículos para fines productivos y comerciales",07/06/2023 0:00,CANCELADA,QUISAPINCHA
+1805101316,100090000,Microcredito,"$3,000.",20.0,Reestructuración de Pasivos y Pago de Obligaciones,01/12/2023 0:00,VIGENTE,FICOA
+1805140785,200029000,Consumo,$500.,15.6,Otros. No productivas,20/11/2023 0:00,VIGENTE,QUISAPINCHA
+1805157904,200028000,Consumo,"$3,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,13/11/2023 0:00,VIGENTE,QUISAPINCHA
+1805167168,200037000,Microcredito,"$2,100.",22.0,Reestructuración de Pasivos y Pago de Obligaciones,13/12/2023 0:00,VIGENTE,QUISAPINCHA
+1805376405,200003000,Microcredito,"$1,000.",22.0,Otros. No productivas,15/06/2023 0:00,CANCELADA,QUISAPINCHA
+1850061399,100061000,Microcredito,"$3,000.",20.0,Capital de trabajo,29/09/2023 0:00,VIGENTE,FICOA
+1850061399,2729,Microcredito,"$3,000.",20.0,Capital de trabajo,29/09/2023 0:00,ELIMINADO,FICOA
+1850075274,100078000,Consumo,"$3,000.",15.6,Reestructuración de Pasivos y Pago de Obligaciones,10/11/2023 0:00,VIGENTE,FICOA
+1850676139,200006000,Microcredito,"$2,000.",22.0,Otros. No productivas,22/06/2023 0:00,VIGENTE,QUISAPINCHA
+1850932797,200020000,Consumo,"$1,000.",15.6,Capital de trabajo,06/09/2023 0:00,VIGENTE,QUISAPINCHA
